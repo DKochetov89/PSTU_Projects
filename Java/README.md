@@ -31,12 +31,12 @@ int stage
 3) Perform processing - add K elements to the beginning of the array.
 4) The above operations are performed via the console menu.
 
-Lab. work № 5 — Appendix № 1:
+Lab. work № 5 — Application № 1:
 Develop an application with a graphical interface. Create a parent class with constant values and with the entered values of the object fields. Objects should be placed in the list. Using the application interface, it is necessary to ensure that instances of the parent class are read and written, as well as the execution of their methods. Output the results in two ways: in separate fields of the JTextField form and in the JTable table.
 Parent class room: length, width, height (in meters). In the class, implement two methods for calculating the area of walls (with windows and doors) and the area of walls without a window (size 2×1.5 m) and doors (size 2 × 1.6 m).
 
-Laboratory Work № 5 — Appendix № 2 Jpanel:
+Laboratory Work № 5 — Application № 2 Jpanel:
 Expand Application #1 — add a descendant class. Class-Descendant - Office: it consists of a room with (length, width, height) and a corridor with (length, width, height). In the class, implement a method to determine the amount of paint needed to paint the walls and ceiling of office premises. Additionally, the paint consumption per 1 m2 is set. Objects should be placed in the list. Using the application interface, it is necessary to ensure that instances of the parent class are read and written, as well as the execution of their methods. Output results to separate fields of the JTextField form.
 
-Laboratory Work № 5 — Jtable Application № 2:
+Laboratory Work № 5 — Application № 2 table:
 Modify the previous application — provide reading and writing to the Jtable table.
