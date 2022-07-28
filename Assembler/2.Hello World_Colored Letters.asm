@@ -44,7 +44,7 @@ MOV [5Ah], 'O'
 MOV [5Bh], AL
 
 
-; print "WORD!" with colored 
+; print "WORLD!" with colored 
 ; lettersusing ES
 ; as segment (better since
 ; this way you won't loose
