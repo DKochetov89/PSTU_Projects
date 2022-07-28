@@ -23,7 +23,7 @@ MOV [58h], 'L'
 MOV [5Ah], 'O'
 
 
-; print "WORD!" using ES
+; print "WORLD!" using ES
 ; as segment (better since
 ; this way you won't loose
 ; access to variables declared
