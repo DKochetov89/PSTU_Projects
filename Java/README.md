@@ -38,5 +38,5 @@ Parent class room: length, width, height (in meters). In the class, implement tw
 Laboratory Work № 5 — Application № 2 Jpanel:
 Expand Application #1 — add a descendant class. Class-Descendant - Office: it consists of a room with (length, width, height) and a corridor with (length, width, height). In the class, implement a method to determine the amount of paint needed to paint the walls and ceiling of office premises. Additionally, the paint consumption per 1 m2 is set. Objects should be placed in the list. Using the application interface, it is necessary to ensure that instances of the parent class are read and written, as well as the execution of their methods. Output results to separate fields of the JTextField form.
 
-Laboratory Work № 5 — Application № 2 table:
+Laboratory Work № 5 — Application № 2 Jtable:
 Modify the previous application — provide reading and writing to the Jtable table.
